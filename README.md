@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-I am a fourth-year Ph.D. student with over seven years of research experience in computer vision and machine learning. My research goal revolves around developing generalizable machine learning models for real-world and out-of-distribution scenarios. I am currently focused on advancing multi-modal foundation models and investigating their generalization capabilities across novel domains.
+I am a fourth-year Ph.D. candidate with over seven years of research experience in computer vision and machine learning. My research centers on enhancing the generalization of machine learning models to unseen domains, with applications spanning anomaly detection, biometrics, healthcare, visual perception tasks, and scene understanding. Currently, I am focused on advancing multi-modal foundation models and exploring their ability to generalize across novel domains.
 
 - 💬 Don't hesitate to email me if you're interested in discussing further.
